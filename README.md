@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zeyaulmustfa
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in FrontEnd Development
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on FrontEnd Development
 - 📫 How to reach me ...
 
 <!---
